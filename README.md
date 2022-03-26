@@ -2,4 +2,4 @@
 
 Simple GUI that displays the civilization name & the image of its unique unit and plays the civ jingle in the background.
 
->thanks for Voobly for the music & Fandom for the pics.
+>thanks Voobly for the music & Fandom for the pics.
